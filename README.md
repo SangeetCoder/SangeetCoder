@@ -10,7 +10,7 @@ I’m a results-oriented software developer with 4+ years of professional experi
 - Build reliable Laravel backends with strict domain logic
 - Implement permission-based GraphQL APIs with clear structure
 - Write complete test suites to ensure features behave exactly as expected
-- Develop clean Vue/Nuxt frontends using TailwindCSS, without overcomplicating the UI
+- Develop clean Vue/Nuxt frontends using TailwindCSS and ShadCN, without overcomplicating the UI
 - Review and test work before it's shipped no guesswork, no shortcuts
 
 
